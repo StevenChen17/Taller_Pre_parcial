@@ -1,0 +1,82 @@
+[
+  {
+    "id": 123,
+    "isActive": true,
+    "picture": "https://picsum.photos/id/1/200/300",
+    "datePublish": "2024-01-10",
+    "nameBook": "Las Sombras del Silencio",
+    "gender": "suspense"
+  },
+  {
+    "id": 124,
+    "isActive": false,
+    "picture": "https://picsum.photos/id/2/200/300",
+    "datePublish": "2023-11-20",
+    "nameBook": "El Último Código",
+    "gender": "terror psicologico"
+  },
+  {
+    "id": 125,
+    "isActive": true,
+    "picture": "https://picsum.photos/id/3/200/300",
+    "datePublish": "2025-02-01",
+    "nameBook": "Mundo de Cristal",
+    "gender": "suspense"
+  },
+  {
+    "id": 126,
+    "isActive": true,
+    "picture": "https://picsum.photos/id/4/200/300",
+    "datePublish": "2024-05-15",
+    "nameBook": "La Herencia Perdida",
+    "gender": "policial"
+  },
+  {
+    "id": 127,
+    "isActive": false,
+    "picture": "https://picsum.photos/id/5/200/300",
+    "datePublish": "2023-08-28",
+    "nameBook": "Voces en la Niebla",
+    "gender": "terror psicologico"
+  },
+  {
+    "id": 128,
+    "isActive": true,
+    "picture": "https://picsum.photos/id/6/200/300",
+    "datePublish": "2025-01-01",
+    "nameBook": "El Jardín Secreto",
+    "gender": "misterio"
+  },
+  {
+    "id": 129,
+    "isActive": false,
+    "picture": "https://picsum.photos/id/7/200/300",
+    "datePublish": "2024-03-05",
+    "nameBook": "Frontera Infinita",
+    "gender": "ciencia ficcion"
+  },
+  {
+    "id": 130,
+    "isActive": true,
+    "picture": "https://picsum.photos/id/8/200/300",
+    "datePublish": "2023-12-12",
+    "nameBook": "Tiempo Detenido",
+    "gender": "suspense"
+  },
+  {
+    "id": 131,
+    "isActive": false,
+    "picture": "https://picsum.photos/id/9/200/300",
+    "datePublish": "2024-07-07",
+    "nameBook": "Los Sueños Olvidados",
+    "gender": "drama"
+  },
+  {
+    "id": 132,
+    "isActive": true,
+    "picture": "https://picsum.photos/id/10/200/300",
+    "datePublish": "2025-03-25",
+    "nameBook": "El Anillo de Zafiro",
+    "gender": "romance"
+  }
+]
