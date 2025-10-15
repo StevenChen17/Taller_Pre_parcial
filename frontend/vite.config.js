@@ -1,4 +1,3 @@
-// C:\Users\Steven Chen\OneDrive\桌面\Taller_Pre_Parcial\frontend\vite.config.js
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 

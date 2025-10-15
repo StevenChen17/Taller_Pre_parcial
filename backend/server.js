@@ -1,4 +1,3 @@
-// /backend/server.js
 // El 'require' debe apuntar a la carpeta 'src'
 const app = require('./src/app'); 
 const PORT = 3000;

@@ -1,4 +1,3 @@
-// /backend/src/app.js
 const express = require('express');
 // El 'require' debe apuntar a './routes.js' (que está en la misma carpeta src)
 const routes = require('./routes'); 
